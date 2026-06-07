@@ -1,8 +1,8 @@
-package codingtestbook.array;
+package codingtestbook.first.array;
 
 import java.util.*;
 
-class Problem03 {
+class Solution03 {
 
     /**
      * answer를 오름차순으로 반환하라고 했기 때문에 TreeSet을 사용했지만,

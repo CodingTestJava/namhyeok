@@ -1,6 +1,6 @@
-package codingtestbook.stack;
+package codingtestbook.first.stack;
 
-public class Problem09 {
+public class Solution09 {
 
     public static String solution(int decimal) {
         StringBuilder sb = new StringBuilder();

@@ -1,8 +1,8 @@
-package codingtestbook.array;
+package codingtestbook.first.array;
 
 import java.util.*;
 
-class Problem07 {
+class Solution07 {
     private static final HashMap<Character, int[]> directions = new HashMap<>();
 
     private static void initDirection() {

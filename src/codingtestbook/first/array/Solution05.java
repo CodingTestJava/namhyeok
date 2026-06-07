@@ -1,6 +1,6 @@
-package codingtestbook.array;
+package codingtestbook.first.array;
 
-public class Problem05 {
+public class Solution05 {
 
     private int[][] solution(int[][] arr1, int[][] arr2) {
 

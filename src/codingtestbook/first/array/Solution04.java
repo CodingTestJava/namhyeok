@@ -1,9 +1,9 @@
-package codingtestbook.array;
+package codingtestbook.first.array;
 
 import java.util.ArrayList;
 import java.util.List;
 
-class Problem04 {
+class Solution04 {
 
     public int[] solution(int[] answers) {
         // 각 수포자의 반복 패턴

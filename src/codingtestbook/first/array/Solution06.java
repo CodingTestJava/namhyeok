@@ -1,9 +1,9 @@
-package codingtestbook.array;
+package codingtestbook.first.array;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Problem06 {
+public class Solution06 {
 // 문제 해석
 // 실패율 = 스테이지에 도달했으나 아직 클리어하지 못한 플레이어 수 / 스테이지에 도달한 플레이어 수
 // 즉, stages에 담긴 stage의 수(A) / stages에 담긴 stage 중 A 보다 크거나 같은 수의 합

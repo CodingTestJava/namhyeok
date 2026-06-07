@@ -1,6 +1,6 @@
-package codingtestbook.stack;
+package codingtestbook.first.stack;
 
-class Problem08_3 {
+class Solution08_3 {
     boolean solution(String s) {
         int n = s.length();
         int count = 0;

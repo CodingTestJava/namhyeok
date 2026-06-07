@@ -1,8 +1,8 @@
-package codingtestbook.array;
+package codingtestbook.first.array;
 
 import java.util.*;
 
-public class Problem02 {
+public class Solution02 {
 
     private int[] solution(int[] arr) {
         // Set으로 중복 제거

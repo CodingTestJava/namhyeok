@@ -1,8 +1,8 @@
-package codingtestbook.stack;
+package codingtestbook.first.stack;
 
 import java.util.*;
 
-class Problem10 {
+class Solution10 {
     public int solution(String s) {
         int n = s.length();
         int answer = 0;

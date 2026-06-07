@@ -1,8 +1,8 @@
-package codingtestbook.array;
+package codingtestbook.first.array;
 
 import java.util.Arrays;
 
-public class Problem01 {
+public class Solution01 {
 
     /**
      * <h2>정렬(Sorting)</h2>
