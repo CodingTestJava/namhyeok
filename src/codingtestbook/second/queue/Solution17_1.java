@@ -8,6 +8,8 @@ public class Solution17_1 {
 
     // ToDo: new ArrayDeque<>(List.of(cards)) 이렇게 했을 때 front와 rear의 pointer 확인!!!!
     // 실수로 스택으로 풀었는데 맞았음....
+
+    // -> stack의 push는 deque에서 addFirst()임!!!
     public String solution(String[] cards1, String[] cards2, String[] goal) {
         // cards1, 2를 각각의 스택에 넣어놓고
         Deque<String> stack1 = new ArrayDeque<>(List.of(cards1));
